@@ -1,0 +1,402 @@
+clrmamepro (
+	name "Nintendo - GameCube"
+	description "Nintendo - GameCube"
+	version "2018.3.12"
+	homepage "http://github.com/robloach/libretro-dats"
+)
+
+game (
+	name "007 - Agent im Kreuzfeuer (2002)(Electronic Arts)(DE)"
+	description "007 - Agent im Kreuzfeuer (2002)(Electronic Arts)(DE)"
+	rom ( name "007 - Agent im Kreuzfeuer (2002)(Electronic Arts)(DE).iso" size 1459978240 crc 43c1d6a0 md5 a91e2b43028eee80f6e953a542dee9c9 sha1 34d610e08042b896fc5c077e6e7060fc00b77aa4 )
+)
+
+game (
+	name "007 - Agent Under Fire (2002)(Electronic Arts)(EU)(en)"
+	description "007 - Agent Under Fire (2002)(Electronic Arts)(EU)(en)"
+	rom ( name "007 - Agent Under Fire (2002)(Electronic Arts)(EU)(en).iso" size 1459978240 crc e3b90f14 md5 54d17b5c7a4eee4bfbd648251bfab15e sha1 1b0ec6bbb9b098906acc9d86a41e036816b90d74 )
+)
+
+game (
+	name "007 - Agent Under Fire Rev 0 (2002)(Electronic Arts)(US)"
+	description "007 - Agent Under Fire Rev 0 (2002)(Electronic Arts)(US)"
+	rom ( name "007 - Agent Under Fire Rev 0 (2002)(Electronic Arts)(US).iso" size 1459978240 crc 04486e6c md5 987af8dca9dd263c27305b4f139a3547 sha1 e518156ce617a7153d5f4320decd57070fd35620 )
+)
+
+game (
+	name "007 - Agent Under Fire Rev 1 (2002)(Electronic Arts)(US)"
+	description "007 - Agent Under Fire Rev 1 (2002)(Electronic Arts)(US)"
+	rom ( name "007 - Agent Under Fire Rev 1 (2002)(Electronic Arts)(US).iso" size 1459978240 crc e9a1e1b2 md5 998e51a469dcad2d9e9842acf7debe5f sha1 7c8a0148f0e5d5b1f40bdfb098eba1935df1932e )
+)
+
+game (
+	name "007 - Alles oder Nichts (2004)(Electronic Arts)(DE)"
+	description "007 - Alles oder Nichts (2004)(Electronic Arts)(DE)"
+	rom ( name "007 - Alles oder Nichts (2004)(Electronic Arts)(DE).iso" size 1459978240 crc fc49c6bd md5 7cb6e2ad23e86b05ef50529f19d15b8b sha1 bc068d22693cac5957496c4467cef556b390b4ba )
+)
+
+game (
+	name "007 - Bons Baisers de Russie (2004)(Electronic Arts)(FR)"
+	description "007 - Bons Baisers de Russie (2004)(Electronic Arts)(FR)"
+	rom ( name "007 - Bons Baisers de Russie (2004)(Electronic Arts)(FR).iso" size 1459978240 crc af7f5faa md5 660085d3965b1b432e7acbe1d0d2b350 sha1 29d4248004ab6bedb29bc31a9926b4dbe2c142a8 )
+)
+
+game (
+	name "007 - Espion pour Cible (2002)(Electronic Arts)(FR)"
+	description "007 - Espion pour Cible (2002)(Electronic Arts)(FR)"
+	rom ( name "007 - Espion pour Cible (2002)(Electronic Arts)(FR).iso" size 1459978240 crc 970521de md5 3fee29cde764103d702bc9ea55373fde sha1 0d0ffbf962010cc7da04349ce15f87bb40762c3e )
+)
+
+game (
+	name "007 - Everything or Nothing (2004)(Electronic Arts)(EU)(M4)"
+	description "007 - Everything or Nothing (2004)(Electronic Arts)(EU)(M4)"
+	rom ( name "007 - Everything or Nothing (2004)(Electronic Arts)(EU)(M4).iso" size 1459978240 crc f0356f22 md5 69789ca120bb6951bddbdb857d65e723 sha1 9830e960506ade0cec2fda35b215308b3af60f72 )
+)
+
+game (
+	name "007 - Everything or Nothing (2004)(Electronic Arts)(JP)"
+	description "007 - Everything or Nothing (2004)(Electronic Arts)(JP)"
+	rom ( name "007 - Everything or Nothing (2004)(Electronic Arts)(JP).iso" size 1459978240 crc 6e9a34b3 md5 703522b936e28c37b964e27feec79a01 sha1 4e198b8dd28d2d9fa4167e084db9c815d8095b4d )
+)
+
+game (
+	name "007 - Everything or Nothing (2004)(Electronic Arts)(US)"
+	description "007 - Everything or Nothing (2004)(Electronic Arts)(US)"
+	rom ( name "007 - Everything or Nothing (2004)(Electronic Arts)(US).iso" size 1459978240 crc 6c5e9ac5 md5 765fcce09699b8632119402ab23d8e89 sha1 850fc473afcca94171864e754a098a81d9276e98 )
+)
+
+game (
+	name "007 - From Russia with Love (2004)(Electronic Arts)(EU)(en)"
+	description "007 - From Russia with Love (2004)(Electronic Arts)(EU)(en)"
+	rom ( name "007 - From Russia with Love (2004)(Electronic Arts)(EU)(en).iso" size 1459978240 crc 2002f5ba md5 b06a75020dde3f6d3c296da11743d080 sha1 1a7f562ecdc2f3ee61dacf820470751e100f2a01 )
+)
+
+game (
+	name "007 - From Russia with Love (2004)(Electronic Arts)(US)"
+	description "007 - From Russia with Love (2004)(Electronic Arts)(US)"
+	rom ( name "007 - From Russia with Love (2004)(Electronic Arts)(US).iso" size 1459978240 crc d2fd9a69 md5 978b18050fac6b4bd47fab6069704bfa sha1 0f002bca477a6631cc90e909b39f53fc27e60855 )
+)
+
+game (
+	name "007 - Nightfire (2002)(Electronic Arts)(DE)"
+	description "007 - Nightfire (2002)(Electronic Arts)(DE)"
+	rom ( name "007 - Nightfire (2002)(Electronic Arts)(DE).iso" size 1459978240 crc 1bfa78a6 md5 4a8b63224e4889cc27749f877060430f sha1 6810d2ee62966d570d2afb8ca7a60d5b66059c6e )
+)
+
+game (
+	name "007 - Nightfire (2002)(Electronic Arts)(ES)"
+	description "007 - Nightfire (2002)(Electronic Arts)(ES)"
+	rom ( name "007 - Nightfire (2002)(Electronic Arts)(ES).iso" size 1459978240 crc 8fad7f86 md5 79cae3e9f1176b776e6ae2c033e62627 sha1 2c0ecc806a8fa4340f3e90834bc07b38a83f21b2 )
+)
+
+game (
+	name "007 - Nightfire (2002)(Electronic Arts)(EU)(M4)"
+	description "007 - Nightfire (2002)(Electronic Arts)(EU)(M4)"
+	rom ( name "007 - Nightfire (2002)(Electronic Arts)(EU)(M4).iso" size 1459978240 crc a94b37e8 md5 3971f7e05cf87c6288c740caa299a000 sha1 a1952b927298c47b58713825e0d30b8bddc79d66 )
+)
+
+game (
+	name "007 - Nightfire (2002)(Electronic Arts)(FR)"
+	description "007 - Nightfire (2002)(Electronic Arts)(FR)"
+	rom ( name "007 - Nightfire (2002)(Electronic Arts)(FR).iso" size 1459978240 crc 72ca3f54 md5 e55862c205c1cedf2426e7ca10675a01 sha1 5dadf79f76df0a25a375696c31304e10bc39b22d )
+)
+
+game (
+	name "007 - Nightfire (2002)(Electronic Arts)(US)"
+	description "007 - Nightfire (2002)(Electronic Arts)(US)"
+	rom ( name "007 - Nightfire (2002)(Electronic Arts)(US).iso" size 1459978240 crc 737977cf md5 a824f5a7a553b7598592c6c129378262 sha1 7275e43f04caa3c9ec6f3675a54d043d4c544bf3 )
+)
+
+game (
+	name "007 - Quitte ou Double (2004)(Electronic Arts)(FR)"
+	description "007 - Quitte ou Double (2004)(Electronic Arts)(FR)"
+	rom ( name "007 - Quitte ou Double (2004)(Electronic Arts)(FR).iso" size 1459978240 crc 43ae8049 md5 dabddecce4356901b13078f95157179b sha1 7509eebf08d9624aadb3f8c69a02ea51c173c3fb )
+)
+
+game (
+	name "007 - Todo o Nada (2004)(Electronic Arts)(ES)"
+	description "007 - Todo o Nada (2004)(Electronic Arts)(ES)"
+	rom ( name "007 - Todo o Nada (2004)(Electronic Arts)(ES).iso" size 1459978240 crc 8b9af943 md5 7d50ecfdbe7572359b1a3b46337e2db8 sha1 3de7f4aebcd34a647d6527a0174cbfac682b9114 )
+)
+
+game (
+	name "007 - Liebesgrusse aus Moskau (2004)(Electronic Arts)(DE)"
+	description "007 - Liebesgrusse aus Moskau (2004)(Electronic Arts)(DE)"
+	rom ( name "007 - Liebesgrusse aus Moskau (2004)(Electronic Arts)(DE).iso" size 1459978240 crc 13b37cd3 md5 0c1288c3a8011a686e1b049be36cb6cb sha1 eb6fd9a83f23e765db4753da1d251f70ae366db2 )
+)
+
+game (
+	name "1080 Avalanche (2003)(Nintendo)(EU)(M5)"
+	description "1080 Avalanche (2003)(Nintendo)(EU)(M5)"
+	rom ( name "1080 Avalanche (2003)(Nintendo)(EU)(M5).iso" size 1459978240 crc 32c98b7f md5 3a95a080a8359f7026c3aedc00b99f53 sha1 5ba38c32bc978093466602511f6f4fbe5d789721 )
+)
+
+game (
+	name "1080 Avalanche (2003)(Nintendo)(US)"
+	description "1080 Avalanche (2003)(Nintendo)(US)"
+	rom ( name "1080 Avalanche (2003)(Nintendo)(US).iso" size 1459978240 crc 2c37cf08 md5 dd2a3befbcb26481ba5edd203e470174 sha1 09b059208054434df2dadf20b96292b8e11fa908 )
+)
+
+game (
+	name "1080 Silver Storm (2004)(Nintendo)(JP)"
+	description "1080 Silver Storm (2004)(Nintendo)(JP)"
+	rom ( name "1080 Silver Storm (2004)(Nintendo)(JP).iso" size 1459978240 crc 5e6c9506 md5 3142122db24a5165f1fa6a3032cf37b0 sha1 c484ef03e13328a4a15123b1d96eb21d00d3c26f )
+)
+
+game (
+	name "18 Wheeler - American Pro Trucker (2001)(Acclaim - Sega)(EU)(M4)"
+	description "18 Wheeler - American Pro Trucker (2001)(Acclaim - Sega)(EU)(M4)"
+	rom ( name "18 Wheeler - American Pro Trucker (2001)(Acclaim - Sega)(EU)(M4).iso" size 1459978240 crc fa022acd md5 eb0c047c08553c724dfee090a259794f sha1 76aeb734574df9e335b25ff46bfe34ab082cc04e )
+)
+
+game (
+	name "18 Wheeler - American Pro Trucker (2001)(Acclaim - Sega)(JP)"
+	description "18 Wheeler - American Pro Trucker (2001)(Acclaim - Sega)(JP)"
+	rom ( name "18 Wheeler - American Pro Trucker (2001)(Acclaim - Sega)(JP).iso" size 1459978240 crc ad289205 md5 36e8da0a88826bf6e1f6e9e3ceace7b4 sha1 e651488b2755bfc17d593a14308127eaf37e1014 )
+)
+
+game (
+	name "18 Wheeler - American Pro Trucker (2001)(Acclaim - Sega)(US)"
+	description "18 Wheeler - American Pro Trucker (2001)(Acclaim - Sega)(US)"
+	rom ( name "18 Wheeler - American Pro Trucker (2001)(Acclaim - Sega)(US).iso" size 1459978240 crc f827ab43 md5 0581d5e7a897de3b1c999e823b31287d sha1 5fea37dc1e9b4e7112f14e81bfda67e38410bd11 )
+)
+
+game (
+	name "2 Games in 1 - Bob l'eponge, le film + Tak 2 - Le Sceptre des Reves (2006)(THQ)(FR)(fr-nl)(Disc 1)"
+	description "2 Games in 1 - Bob l'eponge, le film + Tak 2 - Le Sceptre des Reves (2006)(THQ)(FR)(fr-nl)(Disc 1)"
+	rom ( name "2 Games in 1 - Bob l'eponge, le film + Tak 2 - Le Sceptre des Reves (2006)(THQ)(FR)(fr-nl)(Disc 1).iso" size 1459978240 crc 3cb489d7 md5 592585ee660990d4953e8d6b9f961d3c sha1 e52e6b4d76461a9041dfbcc95ecef8b1d1ecc051 )
+)
+
+game (
+	name "2 Games in 1 - Bob l'eponge, le film + Tak 2 - Le Sceptre des Reves (2006)(THQ)(FR)(fr-nl)(Disc 2)"
+	description "2 Games in 1 - Bob l'eponge, le film + Tak 2 - Le Sceptre des Reves (2006)(THQ)(FR)(fr-nl)(Disc 2)"
+	rom ( name "2 Games in 1 - Bob l'eponge, le film + Tak 2 - Le Sceptre des Reves (2006)(THQ)(FR)(fr-nl)(Disc 2).iso" size 1459978240 crc 601795ee md5 64b9637a1866f784182d274d56c00235 sha1 f3ae51410782d51b30d5f33b26f82a45f4d2498c )
+)
+
+game (
+	name "2 Games in 1 - Der SpongeBob Schwammkopf Film + SpongeBob Schwammkopf - Schlacht um Bikini Bottom (2006)(THQ)(DE)(Disc 1)"
+	description "2 Games in 1 - Der SpongeBob Schwammkopf Film + SpongeBob Schwammkopf - Schlacht um Bikini Bottom (2006)(THQ)(DE)(Disc 1)"
+	rom ( name "2 Games in 1 - Der SpongeBob Schwammkopf Film + SpongeBob Schwammkopf - Schlacht um Bikini Bottom (2006)(THQ)(DE)(Disc 1).iso" size 1459978240 crc 977e170b md5 249f3c69db9324e92a3faf66c3c2ac3d sha1 3523afb30a1d38e11b1cdb540027392346602deb )
+)
+
+game (
+	name "2 Games in 1 - Der SpongeBob Schwammkopf Film + SpongeBob Schwammkopf - Schlacht um Bikini Bottom (2006)(THQ)(DE)(Disc 2)"
+	description "2 Games in 1 - Der SpongeBob Schwammkopf Film + SpongeBob Schwammkopf - Schlacht um Bikini Bottom (2006)(THQ)(DE)(Disc 2)"
+	rom ( name "2 Games in 1 - Der SpongeBob Schwammkopf Film + SpongeBob Schwammkopf - Schlacht um Bikini Bottom (2006)(THQ)(DE)(Disc 2).iso" size 1459978240 crc 893397ae md5 0057239560246895369d37efd0aa2185 sha1 b78e0385bd4a2398ca6f407e0ae3aa128c699ee6 )
+)
+
+game (
+	name "2 Games in 1 - Der SpongeBob Schwammkopf Film + Tak 2 - Der Stab der Traume (2006)(THQ)(DE)(Disc 1)"
+	description "2 Games in 1 - Der SpongeBob Schwammkopf Film + Tak 2 - Der Stab der Traume (2006)(THQ)(DE)(Disc 1)"
+	rom ( name "2 Games in 1 - Der SpongeBob Schwammkopf Film + Tak 2 - Der Stab der Traume (2006)(THQ)(DE)(Disc 1).iso" size 1459978240 crc 2f1904a8 md5 33012f2d1c29c684c17cc79f3177577d sha1 de99e8d3427c5b3821cce5d91cd03c0fc1afc905 )
+)
+
+game (
+	name "2 Games in 1 - Der SpongeBob Schwammkopf Film + Tak 2 - Der Stab der Traume (2006)(THQ)(DE)(Disc 2)"
+	description "2 Games in 1 - Der SpongeBob Schwammkopf Film + Tak 2 - Der Stab der Traume (2006)(THQ)(DE)(Disc 2)"
+	rom ( name "2 Games in 1 - Der SpongeBob Schwammkopf Film + Tak 2 - Der Stab der Traume (2006)(THQ)(DE)(Disc 2).iso" size 1459978240 crc 58e2c01d md5 bbd3c0d5b10ae4fd96d378efb1bcb09e sha1 33be45cab7b45337b01b60f680fc2b85b7f4f73d )
+)
+
+game (
+	name "2 Games in 1 - Die Unglaublichen + Findet Nemo (2006)(THQ)(DE)(Disc 1)"
+	description "2 Games in 1 - Die Unglaublichen + Findet Nemo (2006)(THQ)(DE)(Disc 1)"
+	rom ( name "2 Games in 1 - Die Unglaublichen + Findet Nemo (2006)(THQ)(DE)(Disc 1).iso" size 1459978240 crc 30127b72 md5 91ebe9828eb044a2e52242acb7f8ceef sha1 af6fd8297768fb208cd8e701dbce853e1da737f1 )
+)
+
+game (
+	name "2 Games in 1 - Die Unglaublichen + Findet Nemo (2006)(THQ)(DE)(Disc 2)"
+	description "2 Games in 1 - Die Unglaublichen + Findet Nemo (2006)(THQ)(DE)(Disc 2)"
+	rom ( name "2 Games in 1 - Die Unglaublichen + Findet Nemo (2006)(THQ)(DE)(Disc 2).iso" size 1459978240 crc e5d67d74 md5 c1ae965be09edfe7733351da3ac5f02b sha1 6a4356967af7bb6b2012a5dfd25de0ccf637c531 )
+)
+
+game (
+	name "2 Games in 1 - Les Indestructibles + Le Monde de Nemo (2006)(THQ)(FR)(Disc 1)"
+	description "2 Games in 1 - Les Indestructibles + Le Monde de Nemo (2006)(THQ)(FR)(Disc 1)"
+	rom ( name "2 Games in 1 - Les Indestructibles + Le Monde de Nemo (2006)(THQ)(FR)(Disc 1).iso" size 1459978240 crc 6a6e66ee md5 4e51d0bec2705a23b61284e4bc338ff9 sha1 683a5dd7d75a4c5c4f966dce6ec274da492bdfc5 )
+)
+
+game (
+	name "2 Games in 1 - Les Indestructibles + Le Monde de Nemo (2006)(THQ)(FR)(Disc 2)"
+	description "2 Games in 1 - Les Indestructibles + Le Monde de Nemo (2006)(THQ)(FR)(Disc 2)"
+	rom ( name "2 Games in 1 - Les Indestructibles + Le Monde de Nemo (2006)(THQ)(FR)(Disc 2).iso" size 1459978240 crc f957ee96 md5 2aff07d9d37a3acd0e4d9d1021f944a1 sha1 dd2b753bbe3ec69ce743692ce35ad6941bf3eda6 )
+)
+
+game (
+	name "2002 FIFA World Cup Korea Japan (2002)(Electronic Arts)(DE)"
+	description "2002 FIFA World Cup Korea Japan (2002)(Electronic Arts)(DE)"
+	rom ( name "2002 FIFA World Cup Korea Japan (2002)(Electronic Arts)(DE).iso" size 1459978240 crc 3508278d md5 91fbde7508247e51b42286926d1a9781 sha1 aee664fe47ace928f9a2a0f37598b48213274266 )
+)
+
+game (
+	name "2002 FIFA World Cup Korea Japan (2002)(Electronic Arts)(EU)(en)"
+	description "2002 FIFA World Cup Korea Japan (2002)(Electronic Arts)(EU)(en)"
+	rom ( name "2002 FIFA World Cup Korea Japan (2002)(Electronic Arts)(EU)(en).iso" size 1459978240 crc 510c6864 md5 52124ca10af6550fcfda836680847d62 sha1 b4be262730a88d019cf99c785117bd5a7e0b4fa6 )
+)
+
+game (
+	name "2002 FIFA World Cup Korea Japan (2002)(Electronic Arts)(EU)(fr-nl)"
+	description "2002 FIFA World Cup Korea Japan (2002)(Electronic Arts)(EU)(fr-nl)"
+	rom ( name "2002 FIFA World Cup Korea Japan (2002)(Electronic Arts)(EU)(fr-nl).iso" size 1459978240 crc 5980022f md5 54411489d800faf171f5ff203b1a0c46 sha1 b7e6aa5d84e35fe1de1879c9dcd12c0c1987e275 )
+)
+
+game (
+	name "2002 FIFA World Cup Korea Japan (2002)(Electronic Arts)(JP)"
+	description "2002 FIFA World Cup Korea Japan (2002)(Electronic Arts)(JP)"
+	rom ( name "2002 FIFA World Cup Korea Japan (2002)(Electronic Arts)(JP).iso" size 1459978240 crc 352435de md5 4a5991f0e44035f7efff79fc644ebadf sha1 f44d4ecd2e89ebb0038f27ebfa87c4c71079cd79 )
+)
+
+game (
+	name "2002 FIFA World Cup Korea Japan (2002)(Electronic Arts)(US)"
+	description "2002 FIFA World Cup Korea Japan (2002)(Electronic Arts)(US)"
+	rom ( name "2002 FIFA World Cup Korea Japan (2002)(Electronic Arts)(US).iso" size 1459978240 crc 0f793a29 md5 e53b25f12dcdea0b3633e77b1bed24b2 sha1 0e4e9ad320de2502a2405548c1cc691720b591aa )
+)
+
+game (
+	name "4 Fantastiques, Les (2005)(Activision)(FR)"
+	description "4 Fantastiques, Les (2005)(Activision)(FR)"
+	rom ( name "4 Fantastiques, Les (2005)(Activision)(FR).iso" size 1459978240 crc 4c7bb703 md5 d4e1d0da02324fc820105017ce652f5f sha1 75578d38a551f3a74b6b6166d67750bcdc5c47f9 )
+)
+
+game (
+	name "4x4 EVO 2 (2002)(Universal)(US)"
+	description "4x4 EVO 2 (2002)(Universal)(US)"
+	rom ( name "4x4 EVO 2 (2002)(Universal)(US).iso" size 1459978240 crc 9d473312 md5 dfbf9c9a7985723180816ac49495f55f sha1 7a384b777c3bc06ca67f0707e4b610831024f307 )
+)
+
+game (
+	name "Avalon no Kagi (Main) (Rev. C)"
+	description "Avalon no Kagi (Main) (Rev. C)"
+	rom ( name "track01_oc.bin" size 1058400 crc 1917a3a2 md5 f9f01bab30ca073023f69f64f78def6a sha1 527b4cf27ad6f0ead3c98cc02c1c10aa835e68e9 )
+)
+
+game (
+	name "Avalon no Kagi (Main) (Rev. E)"
+	description "Avalon no Kagi (Main) (Rev. E)"
+	rom ( name "track01.bin" size 1058400 crc 353a9e36 md5 75cf789308aa6060344018a29cc81069 sha1 496740b4382dedb0ace9a8331332ed0e58a7ba76 )
+)
+
+game (
+	name "Avalon no Kagi (Main) (Rev. F)"
+	description "Avalon no Kagi (Main) (Rev. F)"
+	rom ( name "track01.bin" size 1058400 crc 58d434af md5 681732f44e27783843b694802d4ad6d1 sha1 62cc17d2ddc140fc575ebd8adf8cedcd7ce67da5 )
+)
+
+game (
+	name "Avalon no Kagi (Main) (Rev. G)"
+	description "Avalon no Kagi (Main) (Rev. G)"
+	rom ( name "track01.bin" size 1058400 crc db79b61b md5 c53e231ff13be9512cb635057e57dc0f sha1 d6ae195107851d1ae19b5e5cb56849cbbea7cabf )
+)
+
+game (
+	name "Avalon no Kagi (Satellite) (Rev. E)"
+	description "Avalon no Kagi (Satellite) (Rev. E)"
+	rom ( name "track01.bin" size 1058400 crc 62cd39f0 md5 80a2cfa8c68bf645cea8c36ef2002663 sha1 87f9d702d27e0d82c67f4067c588e12f31986956 )
+)
+
+game (
+	name "Avalon no Kagi (Satellite) (Rev. F)"
+	description "Avalon no Kagi (Satellite) (Rev. F)"
+	rom ( name "track01.bin" size 1058400 crc 27cc8991 md5 a7ed0404dff3aacbe096df6f15136826 sha1 6b794e0f657dafd4b2aee042211377a65c4b86dd )
+)
+
+game (
+	name "Avalon no Kagi (Satellite) (Rev. G)"
+	description "Avalon no Kagi (Satellite) (Rev. G)"
+	rom ( name "track01.bin" size 1058400 crc 43d96e7f md5 982559e761924cebbbe6a409c9e359cd sha1 3f76219803f52a5be35c16d5048d6e3cf5ebe64a )
+)
+
+game (
+	name "Avalon no Kagi VER. 1.20 (Main) (Rev. A)"
+	description "Avalon no Kagi VER. 1.20 (Main) (Rev. A)"
+	rom ( name "track01.bin" size 1058400 crc 01ec887c md5 21c3a7b9c9430432b6e7f764f0af3c88 sha1 b31c260349987e579adfd5cfe399033b44c33239 )
+)
+
+game (
+	name "Avalon no Kagi VER. 1.20 (Satellite) (Rev. A)"
+	description "Avalon no Kagi VER. 1.20 (Satellite) (Rev. A)"
+	rom ( name "track01.bin" size 1058400 crc 780460cd md5 a34a350ffe7d3cca915691af2013ac53 sha1 2fa9deb750223d95e22304db82e301991a5f5190 )
+)
+
+game (
+	name "Avalon no Kagi VER. 1.30 (Main) (Rev. C)"
+	description "Avalon no Kagi VER. 1.30 (Main) (Rev. C)"
+	rom ( name "track01.bin" size 1058400 crc a9d3b9b6 md5 d83952f62e4c37e46fa30cd3d709fa4a sha1 e08cdbd4c0890842660e0f4cd3976302459ae146 )
+)
+
+game (
+	name "Avalon no Kagi VER. 1.30 (Satellite) (Rev. C)"
+	description "Avalon no Kagi VER. 1.30 (Satellite) (Rev. C)"
+	rom ( name "track01.bin" size 1058400 crc 05a0bbb5 md5 052f8507667c1498bcfbda9447697aa1 sha1 8b6436c2370ceb9f6ece0017d9711c9231e8ff3b )
+)
+
+game (
+	name "F-Zero AX (Rev. C)"
+	description "F-Zero AX (Rev. C)"
+	rom ( name "track01.bin" size 705600 crc 1a8f1e34 md5 2ec3b5e75239c35ebe2673fbd31a2f56 sha1 294b90e5e364dbf02f047a4476c548c59e5ced93 )
+)
+
+game (
+	name "F-Zero AX (Rev. E)"
+	description "F-Zero AX (Rev. E)"
+	rom ( name "track01.bin" size 705600 crc f0513572 md5 0a1c41f9c19dbfffb52a474795f5f717 sha1 57e3ab269096c52cd33e118bc9875d9877f97697 )
+)
+
+game (
+	name "Gekitou Pro Yakyuu - Mizushima Shinji All Stars vs. Pro Yakyuu (Rev. B)"
+	description "Gekitou Pro Yakyuu - Mizushima Shinji All Stars vs. Pro Yakyuu (Rev. B)"
+	rom ( name "track01.bin" size 2090928 crc 85ffc015 md5 4fa82f9140542a02de6c6000d7444089 sha1 2a9d17390e98b98ac5d780052f8db4c718d6da0c )
+)
+
+game (
+	name "Gekitou Pro Yakyuu - Mizushima Shinji All Stars vs. Pro Yakyuu (Rev. C)"
+	description "Gekitou Pro Yakyuu - Mizushima Shinji All Stars vs. Pro Yakyuu (Rev. C)"
+	rom ( name "track01.bin" size 2090928 crc bab170cb md5 1600341dee522eeeb5e1e0d2e243ff78 sha1 a35c8d23b29e9544f0f477118f9e0468e1d8922a )
+)
+
+game (
+	name "Virtua Striker 2002"
+	description "Virtua Striker 2002"
+	rom ( name "track01.bin" size 705600 crc 1b6d79fa md5 d700c900c87c8b1ba22aaae8c1348a5a sha1 350d0f8e329cbb889f2711ebcb11bc109698ca9b )
+)
+
+game (
+	name "Virtua Striker 2002"
+	description "Virtua Striker 2002"
+	rom ( name "track01.bin" size 705600 crc 5b21dede md5 5061295ab8c25efbeca24abd57f975d7 sha1 1526dbdbc204b5be2f5d55a80e1ae9104db4d047 )
+)
+
+game (
+	name "Virtua Striker 4"
+	description "Virtua Striker 4"
+	rom ( name "track01.bin" size 705600 crc 4b2ab822 md5 54fa5f075511e2b9fedcb50c0c85e5a9 sha1 a5864a4de7bdc8b176a8021729187de57533a49d )
+)
+
+game (
+	name "Virtua Striker 4 (Rev. E)"
+	description "Virtua Striker 4 (Rev. E)"
+	rom ( name "track01.bin" size 705600 crc fc01913c md5 a5056a5648c15256bdda9df4e1a9d6d4 sha1 151d3691ede197830e5784168e0b98443b996d2c )
+)
+
+game (
+	name "Avalon no Kagi (Main) (Rev. A)"
+	description "Avalon no Kagi (Main) (Rev. A)"
+	rom ( name "track01_oc.bin" size 1058400 crc 1f3fd386 md5 c29a5e41e51f0b6ee7167987137609af sha1 7850e85eff9bb2aec11695903f2fb58916d22b20 )
+)
+
+game (
+	name "Avalon no Kagi (Satellite) (Rev. A)"
+	description "Avalon no Kagi (Satellite) (Rev. A)"
+	rom ( name "track01_oc.bin" size 1058400 crc f40be8f1 md5 c5b89f758e28984e032e62f7e73e0544 sha1 c4344041505a1e7592514aa1d7ae85b78bc180a5 )
+)
+
+game (
+	name "Avalon no Kagi (Satellite) (Rev. C)"
+	description "Avalon no Kagi (Satellite) (Rev. C)"
+	rom ( name "track01_oc.bin" size 1058400 crc 0e6bdbb7 md5 c254add20fa6b8827b4544bb65335a02 sha1 9aba23f268492015874cf50012c541d786eb1fee )
+)
+
+game (
+	name "Firmware Update"
+	description "Firmware Update"
+	rom ( name "track01_oc.bin" size 1058400 crc 195a3b84 md5 e289b7e283f63e9e922e8ffb2c9629a8 sha1 17842e4044c7f15018301ee86dbc087a0ef93fc3 )
+)

@@ -1,0 +1,276 @@
+clrmamepro (
+	name "SNK - Neo Geo CD"
+	description "SNK - Neo Geo CD"
+	version "2018.3.12"
+	homepage "http://github.com/robloach/libretro-dats"
+)
+
+game (
+	name "2020 Super Baseball (Japan) (En,Ja)"
+	description "2020 Super Baseball (Japan) (En,Ja)"
+	rom ( name "2020 Super Baseball (Japan) (En,Ja) (Track 01).bin" size 8671824 crc c0ca3e30 md5 63ae1bad6ba9403e56d0acd25c89dfed sha1 c86b08200fe4eddddbcd4b4ab04613cf919dec43 )
+)
+
+game (
+	name "Art of Fighting - Ryuuko no Ken Gaiden ~ The Path of the Warrior - Art of Fighting 3 (Japan) (En,Ja,Es,Pt)"
+	description "Art of Fighting - Ryuuko no Ken Gaiden ~ The Path of the Warrior - Art of Fighting 3 (Japan) (En,Ja,Es,Pt)"
+	rom ( name "Art of Fighting - Ryuuko no Ken Gaiden ~ The Path of the Warrior - Art of Fighting 3 (Japan) (En,Ja,Es,Pt) (Track 01).bin" size 70766976 crc b649cfc6 md5 ac4f11d6ee75d9ed39c89503d41eaaa5 sha1 aa174c7830bbe6a74717a8c942b17ae12dc72920 )
+)
+
+game (
+	name "ASO II - The Last Guardian ~ Alpha Mission II (Japan) (En,Ja)"
+	description "ASO II - The Last Guardian ~ Alpha Mission II (Japan) (En,Ja)"
+	rom ( name "ASO II - The Last Guardian ~ Alpha Mission II (Japan) (En,Ja) (Track 01).bin" size 11070864 crc c1b7daea md5 8d01c014a794c8aa8f1eece60c8e2c02 sha1 ab10c812f2c1a27e7b74d287ad0c36b950fa72b7 )
+)
+
+game (
+	name "Double Dragon (Japan) (En,Ja) (v1.1)"
+	description "Double Dragon (Japan) (En,Ja) (v1.1)"
+	rom ( name "Double Dragon (Japan) (En,Ja) (v1.1) (Track 01).bin" size 22988448 crc 3bddb81a md5 3f6119a8c0fa4bdd18da8636f1dee440 sha1 a9d3a27bdbd533279368cdac7f83ece312235f56 )
+)
+
+game (
+	name "Double Dragon (USA) (En,Ja) (v1.0)"
+	description "Double Dragon (USA) (En,Ja) (v1.0)"
+	rom ( name "Double Dragon (USA) (En,Ja) (v1.0) (Track 01).bin" size 22955520 crc cf083610 md5 7da8a04ec84f0f6f56ff41deb075c27e sha1 7e41663299914766649b3f5247848eb224f8a26e )
+)
+
+game (
+	name "Dunk Dream ~ Street Slam ~ Street Hoop (USA)"
+	description "Dunk Dream ~ Street Slam ~ Street Hoop (USA)"
+	rom ( name "Dunk Dream ~ Street Slam ~ Street Hoop (USA) (Track 01).bin" size 10139472 crc 999747b1 md5 8ae0edee592b657d610fd459878481f5 sha1 fc5c36934ec5a9c0ba3461f8fc7ce8509902e171 )
+)
+
+game (
+	name "Fire Suplex ~ 3 Count Bout (USA) (En,Ja)"
+	description "Fire Suplex ~ 3 Count Bout (USA) (En,Ja)"
+	rom ( name "Fire Suplex ~ 3 Count Bout (USA) (En,Ja) (Track 01).bin" size 43380288 crc 37f64c30 md5 741374cbf885b0ce1dc82b2afab8b1fb sha1 01bad2685633a102034d7543bb94748c121b5299 )
+)
+
+game (
+	name "Galaxy Fight - Universal Warriors (Japan) (En,Ja,Es)"
+	description "Galaxy Fight - Universal Warriors (Japan) (En,Ja,Es)"
+	rom ( name "Galaxy Fight - Universal Warriors (Japan) (En,Ja,Es) (Track 01).bin" size 22007664 crc 695cbd0e md5 bde971cfe8f86bc2dcfaf863f759823c sha1 1bb24ed4874882e3e41db4b1cf8b2130be5493e2 )
+)
+
+game (
+	name "Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Japan) (En,Ja,Es,Pt) (v1.0)"
+	description "Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Japan) (En,Ja,Es,Pt) (v1.0)"
+	rom ( name "Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Japan) (En,Ja,Es,Pt) (v1.0) (Track 01).bin" size 38817408 crc a5928b66 md5 79a698b92686940e289a81c8149c0657 sha1 4172348c5033cd3b05f5d98b8568b55d030a2601 )
+)
+
+game (
+	name "Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (USA) (En,Ja,Es,Pt) (v1.2)"
+	description "Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (USA) (En,Ja,Es,Pt) (v1.2)"
+	rom ( name "Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (USA) (En,Ja,Es,Pt) (v1.2) (Track 01).bin" size 38817408 crc 83fca6f9 md5 1b73cfeec05b528c9af662db52db8426 sha1 af80488135adb89ed7a2a2fd75afe64402370643 )
+)
+
+game (
+	name "Garou Densetsu Special ~ Fatal Fury Special (Japan) (En,Ja) (v1.0)"
+	description "Garou Densetsu Special ~ Fatal Fury Special (Japan) (En,Ja) (v1.0)"
+	rom ( name "Garou Densetsu Special ~ Fatal Fury Special (Japan) (En,Ja) (v1.0) (Track 01).bin" size 25634448 crc ef787662 md5 5796897e1d8ae5b87413cf592d4d8141 sha1 5df92d1c9be9d7b313753fac1c6b4a9efa275b4a )
+)
+
+game (
+	name "Ghost Pilots (Japan)"
+	description "Ghost Pilots (Japan)"
+	rom ( name "Ghost Pilots (Japan) (Track 01).bin" size 8822352 crc a6ff1b78 md5 c41f1d4058cc7fbba171e35f23d0a3ec sha1 988ef1601be196bbf2d9d4eadf9b2b1956560907 )
+)
+
+game (
+	name "King of Fighters '94, The (Japan) (En,Ja)"
+	description "King of Fighters '94, The (Japan) (En,Ja)"
+	rom ( name "King of Fighters '94, The (Japan) (En,Ja) (Track 01).bin" size 39149040 crc 8233acfd md5 0bc0410878d4f0ac764dfbe9c026a1ca sha1 a41d012ce4a3b25a60233de1d58488555c5447df )
+)
+
+game (
+	name "King of Fighters '94, The (Japan) (En,Ja) (Rev A)"
+	description "King of Fighters '94, The (Japan) (En,Ja) (Rev A)"
+	rom ( name "King of Fighters '94, The (Japan) (En,Ja) (Rev A) (Track 01).bin" size 39149040 crc 6bacd5eb md5 7b3dd8ee185ca756c61555129d01d29a sha1 afd30291a40650e0a4d0cedbb0986bc772a49440 )
+)
+
+game (
+	name "King of Fighters '95, The (Japan) (En,Ja)"
+	description "King of Fighters '95, The (Japan) (En,Ja)"
+	rom ( name "King of Fighters '95, The (Japan) (En,Ja) (Track 01).bin" size 44777376 crc 5ada10cd md5 a5ea3d9a553504a36d2d96d1d4fd15b3 sha1 d6bc6ee36323af596d0137c49153f3a0423f326c )
+)
+
+game (
+	name "King of Fighters '96, The (Japan) (En,Ja)"
+	description "King of Fighters '96, The (Japan) (En,Ja)"
+	rom ( name "King of Fighters '96, The (Japan) (En,Ja) (Track 01).bin" size 60556944 crc 3f2154ce md5 7110c64c79d143fff97d8ee80254ca92 sha1 080f9832a0523286a47664b782a358d09c0a4662 )
+)
+
+game (
+	name "King of Fighters '97, The (Japan) (En,Ja)"
+	description "King of Fighters '97, The (Japan) (En,Ja)"
+	rom ( name "King of Fighters '97, The (Japan) (En,Ja) (Track 01).bin" size 83098512 crc 5bb54eb2 md5 a1011bfbbf0cedc873b38e2b6cef9aeb sha1 2b3be63026e336d910d9950b7c8e7b39521d4f6c )
+)
+
+game (
+	name "King of Fighters '98, The - Dream Match Never Ends ~ The King of Fighters '98 - The Slugfest (Japan) (En,Ja)"
+	description "King of Fighters '98, The - Dream Match Never Ends ~ The King of Fighters '98 - The Slugfest (Japan) (En,Ja)"
+	rom ( name "King of Fighters '98, The - Dream Match Never Ends ~ The King of Fighters '98 - The Slugfest (Japan) (En,Ja) (Track 01).bin" size 111164928 crc babc4b50 md5 afb9b877491a54ce95f1e313c875d4bf sha1 be8300e69c6400b0dd84ee9d5a8bd8deb3fbba6e )
+)
+
+game (
+	name "Last Resort (Japan) (En,Ja)"
+	description "Last Resort (Japan) (En,Ja)"
+	rom ( name "Last Resort (Japan) (En,Ja) (Track 01).bin" size 12801936 crc a7f11b12 md5 d0b0a7c53f7d5070cc9389dcb4fe38e6 sha1 bcc4f2651ca698e84e3c8fe393121b0262ee5d86 )
+)
+
+game (
+	name "Magician Lord (Japan) (En,Ja)"
+	description "Magician Lord (Japan) (En,Ja)"
+	rom ( name "Magician Lord (Japan) (En,Ja) (Track 01).bin" size 5630688 crc 523bbcdf md5 149a9d6af84e47b277c9dde4fed20a20 sha1 87fa01b271c5f57223d2ddf78bae66feca175ab7 )
+)
+
+game (
+	name "Metal Slug (Japan) (En,Ja)"
+	description "Metal Slug (Japan) (En,Ja)"
+	rom ( name "Metal Slug (Japan) (En,Ja) (Track 01).bin" size 30564240 crc a41f1e08 md5 2b3ba6cbc5b832e16a9338122f6e7ebc sha1 5d14c965bbf852e14d3583a56051bb4103fa9c04 )
+)
+
+game (
+	name "Metal Slug 2 (Japan) (En,Ja)"
+	description "Metal Slug 2 (Japan) (En,Ja)"
+	rom ( name "Metal Slug 2 (Japan) (En,Ja) (Track 01).bin" size 48067824 crc 3806511e md5 b37467fd27269b3d5b41fff642f2da87 sha1 7545874e448fe49d13f30b8b00b2c4291bc79795 )
+)
+
+game (
+	name "Mutation Nation (Japan) (En,Ja)"
+	description "Mutation Nation (Japan) (En,Ja)"
+	rom ( name "Mutation Nation (Japan) (En,Ja) (Track 01).bin" size 9273936 crc 61ee4822 md5 041207e4e4f9ab70e8d0084f9e48d52c sha1 c86046c7b15fd101f2b8d25bd3077744991a270c )
+)
+
+game (
+	name "Neo-Geo CD Special (Japan)"
+	description "Neo-Geo CD Special (Japan)"
+	rom ( name "Neo-Geo CD Special (Japan) (Track 01).bin" size 108850560 crc c652aeb0 md5 e5505279eb33c7e39818206fbb095027 sha1 c55361adcff9a20986d3e010df2fcc8c513e2e78 )
+)
+
+game (
+	name "Ninja Commando (Japan) (En,Ja)"
+	description "Ninja Commando (Japan) (En,Ja)"
+	rom ( name "Ninja Commando (Japan) (En,Ja) (Track 01).bin" size 8039136 crc cea1d852 md5 58d821dd0e39ad16628e10385986cad8 sha1 b38ac8ab809f82ff109e329de44b765e4b86ef8e )
+)
+
+game (
+	name "Power Spikes II (Japan) (En,Ja)"
+	description "Power Spikes II (Japan) (En,Ja)"
+	rom ( name "Power Spikes II (Japan) (En,Ja) (Track 01).bin" size 7549920 crc 3345fa74 md5 c7265bae789c61c69f5603f99ba98caf sha1 371fb0d8be953aedc7b1cefb8086569207211938 )
+)
+
+game (
+	name "Quiz King of Fighters (Japan)"
+	description "Quiz King of Fighters (Japan)"
+	rom ( name "Quiz King of Fighters (Japan) (Track 01).bin" size 24371424 crc e1915dfd md5 b87f33515015fdc802e41aa0b551807d sha1 17fe9fe9d732c95cdb876b31307e516a871e3279 )
+)
+
+game (
+	name "Raguy ~ Blue's Journey (Japan) (En,Ja)"
+	description "Raguy ~ Blue's Journey (Japan) (En,Ja)"
+	rom ( name "Raguy ~ Blue's Journey (Japan) (En,Ja) (Track 01).bin" size 8039136 crc ec460d25 md5 5bf3b2e1846d6ed1ffcdc3ac2aee225d sha1 cb24b3201c562855b99f9317d24e8333c94ff61e )
+)
+
+game (
+	name "Rally Chase (Japan) (En,Ja)"
+	description "Rally Chase (Japan) (En,Ja)"
+	rom ( name "Rally Chase (Japan) (En,Ja) (Track 01).bin" size 6684384 crc b36554d1 md5 ef0f2bfb8b8301a4102d241ebd642799 sha1 16b3c3dcce97d793b07d23722c132fc4d5ddf705 )
+)
+
+game (
+	name "Real Bout Garou Densetsu ~ Real Bout Fatal Fury (Japan) (En,Ja,Es,Pt)"
+	description "Real Bout Garou Densetsu ~ Real Bout Fatal Fury (Japan) (En,Ja,Es,Pt)"
+	rom ( name "Real Bout Garou Densetsu ~ Real Bout Fatal Fury (Japan) (En,Ja,Es,Pt) (Track 01).bin" size 41924400 crc dab225ee md5 c7d11d90f4eb5194ad9c677c62ec1923 sha1 53c6f85b735af36b24b20eb25358748872e812a8 )
+)
+
+game (
+	name "Real Bout Garou Densetsu Special ~ Real Bout Fatal Fury Special (Japan) (En,Ja,Es,Pt)"
+	description "Real Bout Garou Densetsu Special ~ Real Bout Fatal Fury Special (Japan) (En,Ja,Es,Pt)"
+	rom ( name "Real Bout Garou Densetsu Special ~ Real Bout Fatal Fury Special (Japan) (En,Ja,Es,Pt) (Track 01).bin" size 76296528 crc 9e8c704f md5 9e3dc32c7ef28a6167eee8d7fa2d9c63 sha1 ae68e9146c96e32cd0cf9a47073da1823d1715e6 )
+)
+
+game (
+	name "Ryuuko no Ken 2 ~ Art of Fighting 2 (Japan) (En,Ja,Es)"
+	description "Ryuuko no Ken 2 ~ Art of Fighting 2 (Japan) (En,Ja,Es)"
+	rom ( name "Ryuuko no Ken 2 ~ Art of Fighting 2 (Japan) (En,Ja,Es) (Track 01).bin" size 35868000 crc 863e2efd md5 b12597c04180d90491430580b6817200 sha1 28b691be20c86c418ecd2a55418673fc48c67587 )
+)
+
+game (
+	name "Samurai Spirits - Amakusa Kourin ~ Samurai Shodown IV - Amakusa's Revenge (Japan) (En,Ja,Es,Pt)"
+	description "Samurai Spirits - Amakusa Kourin ~ Samurai Shodown IV - Amakusa's Revenge (Japan) (En,Ja,Es,Pt)"
+	rom ( name "Samurai Spirits - Amakusa Kourin ~ Samurai Shodown IV - Amakusa's Revenge (Japan) (En,Ja,Es,Pt) (Track 01).bin" size 65529072 crc afbf9351 md5 e18a1a60e7121a42892b9401e997067e sha1 be9e7f4beb2a3856d031b4e0813df4a77105159a )
+)
+
+game (
+	name "Samurai Spirits ~ Samurai Shodown (Japan) (En,Ja)"
+	description "Samurai Spirits ~ Samurai Shodown (Japan) (En,Ja)"
+	rom ( name "Samurai Spirits ~ Samurai Shodown (Japan) (En,Ja) (Track 01).bin" size 25333392 crc 6f4d6d87 md5 e6080e7a4745cc2643bb21753da5eb3f sha1 aed14dfea5cbf722ee7ce85fed3ac386dadb2598 )
+)
+
+game (
+	name "Shin Samurai Spirits - Haoumaru Jigokuhen ~ Samurai Shodown II (Japan) (En,Ja)"
+	description "Shin Samurai Spirits - Haoumaru Jigokuhen ~ Samurai Shodown II (Japan) (En,Ja)"
+	rom ( name "Shin Samurai Spirits - Haoumaru Jigokuhen ~ Samurai Shodown II (Japan) (En,Ja) (Track 01).bin" size 39381888 crc 63cff4fa md5 bb4b30ce28045b7804d53713037f0779 sha1 0c646fa29efc7331da76057582bad5d3f3c8d311 )
+)
+
+game (
+	name "Shinsetsu Samurai Spirits - Bushidou Retsuden (Japan)"
+	description "Shinsetsu Samurai Spirits - Bushidou Retsuden (Japan)"
+	rom ( name "Shinsetsu Samurai Spirits - Bushidou Retsuden (Japan) (Track 01).bin" size 286887552 crc 6d0faaba md5 543537ffd1a975df94987bc21e19d0a1 sha1 69da036e094a971a035c63c7b365179e031aea2c )
+)
+
+game (
+	name "Shougi no Tatsujin - Master of Syougi (Japan)"
+	description "Shougi no Tatsujin - Master of Syougi (Japan)"
+	rom ( name "Shougi no Tatsujin - Master of Syougi (Japan) (Track 01).bin" size 7335888 crc 2c170257 md5 32e6eaa25d3d7d1ed2c8a8856420a2f8 sha1 34eac00b4cb8f96d98036b023128a447fe0cf928 )
+)
+
+game (
+	name "Soccer Brawl (Japan)"
+	description "Soccer Brawl (Japan)"
+	rom ( name "Soccer Brawl (Japan) (Track 01).bin" size 8688288 crc f4497457 md5 37803fdacac177a3ed5a1dddfe55ebaa sha1 24f9e1ba2b1a0578fd5d026fd8b7530d6f748254 )
+)
+
+game (
+	name "Sonic Wings 2 ~ Aero Fighters 2 (Japan) (En,Ja)"
+	description "Sonic Wings 2 ~ Aero Fighters 2 (Japan) (En,Ja)"
+	rom ( name "Sonic Wings 2 ~ Aero Fighters 2 (Japan) (En,Ja) (Track 01).bin" size 22259328 crc bbb2f599 md5 7688fc3d710c3df5509bbdd137c7e282 sha1 a684a6a330e882989a3618f54c5c08a181ca096f )
+)
+
+game (
+	name "Top Hunter - Roddy & Cathy (Japan) (En,Ja)"
+	description "Top Hunter - Roddy & Cathy (Japan) (En,Ja)"
+	rom ( name "Top Hunter - Roddy & Cathy (Japan) (En,Ja) (Track 01).bin" size 21934752 crc c21bc460 md5 3c1679603d587ce5fa71738d52064188 sha1 aeafea12a19ce8caf25de9f95d5a4739703ecbad )
+)
+
+game (
+	name "Top Player's Golf (Japan) (En,Ja)"
+	description "Top Player's Golf (Japan) (En,Ja)"
+	rom ( name "Top Player's Golf (Japan) (En,Ja) (Track 01).bin" size 11388384 crc 7963deaf md5 d8d96280cc70547ea365ee554b7a20a6 sha1 18cf70673a0a45718161547e22b9d355223d1174 )
+)
+
+game (
+	name "Tsuukai Gangan Koushinkyoku ~ Aggressors of Dark Kombat (Japan) (En,Ja)"
+	description "Tsuukai Gangan Koushinkyoku ~ Aggressors of Dark Kombat (Japan) (En,Ja)"
+	rom ( name "Tsuukai Gangan Koushinkyoku ~ Aggressors of Dark Kombat (Japan) (En,Ja) (Track 01).bin" size 22137024 crc eb9bef26 md5 d4a738cb3ca41fdda60079c80a19b3f1 sha1 9aff91fe9d53c6f90e3877ec530f5b11e3a731c6 )
+)
+
+game (
+	name "Viewpoint (Japan)"
+	description "Viewpoint (Japan)"
+	rom ( name "Viewpoint (Japan) (Track 01).bin" size 7350000 crc a5a5b71e md5 b0f6a312203fd66c6eabd31affa33717 sha1 5a9b0b77eaf9a414e37078b76aaea26ee086a824 )
+)
+
+game (
+	name "World Heroes 2 Jet (Japan) (En,Ja)"
+	description "World Heroes 2 Jet (Japan) (En,Ja)"
+	rom ( name "World Heroes 2 Jet (Japan) (En,Ja) (Track 01).bin" size 26817504 crc 46910e99 md5 a1272a53c46782d149d826b5171cd830 sha1 bd76acff4c30da82256aba39a6b409d0ad02533e )
+)
+
+game (
+	name "World Heroes Perfect (Japan) (En,Ja)"
+	description "World Heroes Perfect (Japan) (En,Ja)"
+	rom ( name "World Heroes Perfect (Japan) (En,Ja) (Track 01).bin" size 29969184 crc f6b4c4f6 md5 15ebb70d28e03805cf52ef87906d76d7 sha1 f66466dc4cbc1e974e947270551b00f0f2c802c7 )
+)

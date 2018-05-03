@@ -1,0 +1,836 @@
+clrmamepro (
+	name "Nintendo Super Nintendo Entertainment System"
+)
+
+game (
+	name "Choujikuu Yousai Macross - Scrambled Valkyrie (Japan)"
+	publisher "Zamuse"
+	rom (
+		crc A5DB02E9
+	)
+)
+
+game (
+	name "Chrono Trigger (Japan)"
+	publisher "SquareSoft"
+	rom (
+		crc 4D014C20
+	)
+)
+
+game (
+	name "Chrono Trigger (Japan) (Sample)"
+	publisher "SquareSoft"
+	rom (
+		crc 17C9F363
+	)
+)
+
+game (
+	name "Chrono Trigger (USA)"
+	publisher "SquareSoft"
+	rom (
+		crc 2D206BF7
+	)
+)
+
+game (
+	name "Chuck Rock (USA) (Beta)"
+	publisher "Sony Imagesoft"
+	rom (
+		crc C024F88F
+	)
+)
+
+game (
+	name "Chuck Rock (Europe)"
+	publisher "Sony Imagesoft"
+	rom (
+		crc FBA012CD
+	)
+)
+
+game (
+	name "Chuck Rock (USA)"
+	publisher "Sony Imagesoft"
+	rom (
+		crc E237EC45
+	)
+)
+
+game (
+	name "Civilization - Sekai Shichi Daibunmei (Japan)"
+	publisher "Asmik Ace Entertainment, Inc"
+	rom (
+		crc 9D5CE088
+	)
+)
+
+game (
+	name "Clay Fighter 2 - Judgment Clay (Europe)"
+	publisher "Interplay"
+	rom (
+		crc CAA9ABF1
+	)
+)
+
+game (
+	name "Clay Fighter 2 - Judgment Clay (USA)"
+	publisher "Interplay"
+	rom (
+		crc 20B5C364
+	)
+)
+
+game (
+	name "Claymates (Europe)"
+	publisher "Interplay"
+	rom (
+		crc 3A571132
+	)
+)
+
+game (
+	name "Claymates (USA)"
+	publisher "Interplay"
+	rom (
+		crc 7AD5CCAC
+	)
+)
+
+game (
+	name "Claymates (USA) (Sample)"
+	publisher "Interplay"
+	rom (
+		crc 5C00F14C
+	)
+)
+
+game (
+	name "Clock Tower (Japan)"
+	publisher "Human Entertainment"
+	rom (
+		crc CBCD0DAD
+	)
+)
+
+game (
+	name "Clock Tower (Japan) (Beta)"
+	publisher "Human Entertainment"
+	rom (
+		crc F29F6651
+	)
+)
+
+game (
+	name "Clue (USA)"
+	publisher "Parker Bros."
+	rom (
+		crc A4FBE827
+	)
+)
+
+game (
+	name "Contra III - The Alien Wars (USA)"
+	publisher "Konami"
+	rom (
+		crc 84DA7CFE
+	)
+)
+
+game (
+	name "Contra Spirits (Japan)"
+	publisher "Konami"
+	rom (
+		crc B8CFE377
+	)
+)
+
+game (
+	name "Cool Spot (Japan)"
+	publisher "Virgin Interactive"
+	rom (
+		crc 55964905
+	)
+)
+
+game (
+	name "Cool Spot (USA) (Beta)"
+	publisher "Virgin Interactive"
+	rom (
+		crc 9A14C57D
+	)
+)
+
+game (
+	name "Cool Spot (Europe)"
+	publisher "Virgin Interactive"
+	rom (
+		crc 281244B0
+	)
+)
+
+game (
+	name "Cool Spot (USA)"
+	publisher "Virgin Interactive"
+	rom (
+		crc 44E60E58
+	)
+)
+
+game (
+	name "Cu-On-Pa SFC (Japan)"
+	publisher "T&E Soft"
+	rom (
+		crc 42D0C418
+	)
+)
+
+game (
+	name "Cu-On-Pa SFC (Japan) (BS)"
+	publisher "T&E Soft"
+	rom (
+		crc 56B93366
+	)
+)
+
+game (
+	name "Cutthroat Island (Europe)"
+	publisher "Acclaim"
+	rom (
+		crc B5799F9C
+	)
+)
+
+game (
+	name "Cutthroat Island (USA)"
+	publisher "Acclaim"
+	rom (
+		crc 19EA457B
+	)
+)
+
+game (
+	name "Demon's Crest (Europe)"
+	publisher "Capcom"
+	rom (
+		crc C8386172
+	)
+)
+
+game (
+	name "Demon's Crest (USA)"
+	publisher "Capcom"
+	rom (
+		crc E8236AD2
+	)
+)
+
+game (
+	name "Densetsu no Ogre Battle - The March of the Black Queen (Japan)"
+	publisher "Quest"
+	rom (
+		crc 65CD17E3
+	)
+)
+
+game (
+	name "Densetsu no Ogre Battle - The March of the Black Queen (Japan) (NP)"
+	publisher "Quest"
+	rom (
+		crc 3E50C7C2
+	)
+)
+
+game (
+	name "Donkey Kong Country (Europe) (En,Fr,De)"
+	publisher "Nintendo"
+	rom (
+		crc 7A33E836
+	)
+)
+
+game (
+	name "Donkey Kong Country (USA) (Rev 2)"
+	publisher "Nintendo"
+	rom (
+		crc 762AF827
+	)
+)
+
+game (
+	name "Donkey Kong Country (Europe) (En,Fr,De) (Rev 1)"
+	publisher "Nintendo"
+	rom (
+		crc 17657DB6
+	)
+)
+
+game (
+	name "Donkey Kong Country (USA)"
+	publisher "Nintendo"
+	rom (
+		crc C946DCA0
+	)
+)
+
+game (
+	name "Donkey Kong Country (USA) (Rev 1)"
+	publisher "Nintendo"
+	rom (
+		crc 3EAA5697
+	)
+)
+
+game (
+	name "Donkey Kong Country 2 - Diddy's Kong Quest (Germany) (En,De) (Rev 1)"
+	publisher "Nintendo"
+	rom (
+		crc 2EB33785
+	)
+)
+
+game (
+	name "Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr)"
+	publisher "Nintendo"
+	rom (
+		crc 006364DB
+	)
+)
+
+game (
+	name "Donkey Kong Country 2 - Diddy's Kong Quest (Germany) (En,De)"
+	publisher "Nintendo"
+	rom (
+		crc 4C794A4D
+	)
+)
+
+game (
+	name "Donkey Kong Country 2 - Diddy's Kong Quest (Europe) (En,Fr) (Rev 1)"
+	publisher "Nintendo"
+	rom (
+		crc 2EA6B7E8
+	)
+)
+
+game (
+	name "Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr) (Rev 1)"
+	publisher "Nintendo"
+	rom (
+		crc 4E2D90F4
+	)
+)
+
+game (
+	name "Donkey Kong Country 3 - Dixie Kong's Double Trouble! (Europe) (En,Fr,De)"
+	publisher "Nintendo"
+	rom (
+		crc 0551FE84
+	)
+)
+
+game (
+	name "Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA) (En,Fr)"
+	publisher "Nintendo"
+	rom (
+		crc 448EEC19
+	)
+)
+
+game (
+	name "Doom (Europe)"
+	publisher "Ocean"
+	rom (
+		crc 360243E4
+	)
+)
+
+game (
+	name "Doom (Japan)"
+	publisher "Imagineer"
+	rom (
+		crc E5D722B2
+	)
+)
+
+game (
+	name "Doom (USA)"
+	publisher "Williams"
+	rom (
+		crc 09E85EA6
+	)
+)
+
+game (
+	name "Earthworm Jim (USA) (GamesMaster Special Edition)"
+	publisher "Playmates"
+	rom (
+		crc B1EAAD9E
+	)
+)
+
+game (
+	name "Earthworm Jim (USA)"
+	publisher "Playmates"
+	rom (
+		crc 3A4A47EB
+	)
+)
+
+game (
+	name "Earthworm Jim (Japan)"
+	publisher "Takara"
+	rom (
+		crc 6F8ED108
+	)
+)
+
+game (
+	name "Earthworm Jim (Europe)"
+	publisher "Virgin Interactive"
+	rom (
+		crc 84AB251B
+	)
+)
+
+game (
+	name "Earthworm Jim 2 (Europe)"
+	publisher "Virgin Interactive"
+	rom (
+		crc 4F961F70
+	)
+)
+
+game (
+	name "Earthworm Jim 2 (USA)"
+	publisher "Playmates"
+	rom (
+		crc 393DE197
+	)
+)
+
+game (
+	name "Earthworm Jim 2 (USA) (Beta)"
+	publisher "Playmates"
+	rom (
+		crc C110A23A
+	)
+)
+
+game (
+	name "Equinox (USA) (Beta)"
+	publisher "Sony Imagesoft"
+	rom (
+		crc 61D22779
+	)
+)
+
+game (
+	name "Equinox (USA)"
+	publisher "Sony Imagesoft"
+	rom (
+		crc 96A4D1C0
+	)
+)
+
+game (
+	name "Equinox (Europe)"
+	publisher "Sony Imagesoft"
+	rom (
+		crc A2B15AC4
+	)
+)
+
+game (
+	name "Legend of the Mystical Ninja, The (USA)"
+	publisher "Konami"
+	rom (
+		crc 82479D6A
+	)
+)
+
+game (
+	name "Legend of the Mystical Ninja, The (Germany)"
+	publisher "Konami"
+	rom (
+		crc 5796529E
+	)
+)
+
+game (
+	name "Legend of the Mystical Ninja, The (Europe)"
+	publisher "Konami"
+	rom (
+		crc 797724C8
+	)
+)
+
+game (
+	name "Legend of Zelda, The - A Link to the Past (Canada)"
+	publisher "Nintendo"
+	rom (
+		crc 47760381
+	)
+)
+
+game (
+	name "Legend of Zelda, The - A Link to the Past (Europe)"
+	publisher "Nintendo"
+	rom (
+		crc 04D55E12
+	)
+)
+
+game (
+	name "Legend of Zelda, The - A Link to the Past (France)"
+	publisher "Nintendo"
+	rom (
+		crc 1F8C30E8
+	)
+)
+
+game (
+	name "Legend of Zelda, The - A Link to the Past (Germany)"
+	publisher "Nintendo"
+	rom (
+		crc 6A6C2091
+	)
+)
+
+game (
+	name "Legend of Zelda, The - A Link to the Past (USA)"
+	publisher "Nintendo"
+	rom (
+		crc 777AAC2F
+	)
+)
+
+game (
+	name "Lethal Enforcers (USA)"
+	publisher "Konami"
+	rom (
+		crc 5AFF8CD5
+	)
+)
+
+game (
+	name "Lethal Enforcers (Japan)"
+	publisher "Konami"
+	rom (
+		crc 3C948EA6
+	)
+)
+
+game (
+	name "Lethal Enforcers (Europe)"
+	publisher "Konami"
+	rom (
+		crc AA6EE29C
+	)
+)
+
+game (
+	name "Live A Live (Japan)"
+	publisher "SquareSoft"
+	rom (
+		crc 6291EE08
+	)
+)
+
+game (
+	name "Mega Man 7 (Europe)"
+	publisher "Capcom"
+	rom (
+		crc 03579738
+	)
+)
+
+game (
+	name "Mega Man 7 (USA)"
+	publisher "Capcom"
+	rom (
+		crc 2D947536
+	)
+)
+
+game (
+	name "Mega Man X (Europe)"
+	publisher "Capcom"
+	rom (
+		crc 41965122
+	)
+)
+
+game (
+	name "Mega Man X (USA)"
+	publisher "Capcom"
+	rom (
+		crc 1033EBA4
+	)
+)
+
+game (
+	name "Mega Man X (USA) (Rev 1)"
+	publisher "Capcom"
+	rom (
+		crc DED53C64
+	)
+)
+
+game (
+	name "Mega Man X2 (Europe)"
+	publisher "Capcom"
+	rom (
+		crc 3C49C39C
+	)
+)
+
+game (
+	name "Solstice II (Japan)"
+	publisher "Epic Sony Record"
+	rom (
+		crc 21D280F8
+	)
+)
+
+game (
+	name "Solstice II (Japan) (Beta) (1993-03-03)"
+	publisher "Epic Sony Record"
+	rom (
+		crc 37C2EC0C
+	)
+)
+
+game (
+	name "Soul Blader (Japan)"
+	publisher "Enix"
+	rom (
+		crc CD6DBC1C
+	)
+)
+
+game (
+	name "Soul Blazer (USA)"
+	publisher "Enix America"
+	rom (
+		crc 31B965DB
+	)
+)
+
+game (
+	name "Soul Blazer (Europe)"
+	publisher "Enix"
+	rom (
+		crc 54370191
+	)
+)
+
+game (
+	name "Soul Blazer (France)"
+	publisher "Enix"
+	rom (
+		crc 20157693
+	)
+)
+
+game (
+	name "Soul Blazer (Germany)"
+	publisher "Enix"
+	rom (
+		crc FE28D2C1
+	)
+)
+
+game (
+	name "Sound Novel Tsukuru (Japan)"
+	publisher "ASCII Entertainment"
+	rom (
+		crc 5EBF7246
+	)
+)
+
+game (
+	name "Space Football - One on One (USA)"
+	publisher "Triffix"
+	rom (
+		crc 55DCF09E
+	)
+)
+
+game (
+	name "Special Tee Shot (Japan) (BS)"
+	publisher "Nintendo"
+	rom (
+		crc 841C8EB9
+	)
+)
+
+game (
+	name "Star Fox (Japan)"
+	publisher "Nintendo"
+	rom (
+		crc 41A60B3F
+	)
+)
+
+game (
+	name "Star Fox (USA)"
+	publisher "Nintendo"
+	rom (
+		crc 0BAE0941
+	)
+)
+
+game (
+	name "Star Fox (USA) (Rev 2)"
+	publisher "Nintendo"
+	rom (
+		crc 8FC4E6D0
+	)
+)
+
+game (
+	name "Star Fox (Japan) (Rev 1)"
+	publisher "Nintendo"
+	rom (
+		crc AD668A41
+	)
+)
+
+game (
+	name "Star Ocean (Japan)"
+	publisher "Enix"
+	rom (
+		crc 3DBDFDBF
+	)
+)
+
+game (
+	name "Super Bomberman (USA)"
+	publisher "Hudson"
+	rom (
+		crc 63A8E2C6
+	)
+)
+
+game (
+	name "Super Bomberman (Europe)"
+	publisher "Hudson"
+	rom (
+		crc 678501F2
+	)
+)
+
+game (
+	name "Super Bomberman 2 (USA)"
+	publisher ""
+	rom (
+		crc 9C1F11E4
+	)
+)
+
+game (
+	name "Super Bomberman 2 (Europe)"
+	publisher ""
+	rom (
+		crc C60A4191
+	)
+)
+
+game (
+	name "Super Donkey Kong (Japan) (Rev 1)"
+	publisher "Nintendo"
+	rom (
+		crc 3ADEF543
+	)
+)
+
+game (
+	name "Super Donkey Kong (Japan)"
+	publisher "Nintendo"
+	rom (
+		crc 50F2D1BC
+	)
+)
+
+game (
+	name "Super Donkey Kong 2 - Dixie & Diddy (Japan)"
+	publisher "Nintendo"
+	rom (
+		crc A0BE8E71
+	)
+)
+
+game (
+	name "Super Donkey Kong 2 - Dixie & Diddy (Japan) (Rev 1)"
+	publisher "Nintendo"
+	rom (
+		crc 46079C0F
+	)
+)
+
+game (
+	name "Super Mario World (Europe) (Rev 1)"
+	publisher "Nintendo"
+	rom (
+		crc B47F5F20
+	)
+)
+
+game (
+	name "Super Mario World (Europe)"
+	publisher "Nintendo"
+	rom (
+		crc 3C41070F
+	)
+)
+
+game (
+	name "Super Mario World (USA)"
+	publisher "Nintendo"
+	rom (
+		crc B19ED489
+	)
+)
+
+game (
+	name "Super Mario World - Super Mario Bros. 4 (Japan)"
+	publisher "Nintendo"
+	rom (
+		crc 0EC0DDAC
+	)
+)
+
+game (
+	name "Super Mario World 2 - Yoshi's Island (Europe) (En,Fr,De)"
+	publisher "Nintendo"
+	rom (
+		crc 857980B2
+	)
+)
+
+game (
+	name "Super Mario World 2 - Yoshi's Island (USA)"
+	publisher "Nintendo"
+	rom (
+		crc D138F224
+	)
+)
+
+game (
+	name "Super Mario World 2 - Yoshi's Island (USA) (Rev 1)"
+	publisher "Nintendo"
+	rom (
+		crc CF98DDAA
+	)
+)
+
+game (
+	name "Super Mario World 2 - Yoshi's Island (Europe) (En,Fr,De) (Rev 1)"
+	publisher "Nintendo"
+	rom (
+		crc 07E01EF9
+	)
+)
+

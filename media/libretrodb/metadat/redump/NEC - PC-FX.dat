@@ -1,0 +1,210 @@
+clrmamepro (
+	name "NEC - PC-FX"
+	description "NEC - PC-FX"
+	version "2018.3.12"
+	homepage "http://github.com/robloach/libretro-dats"
+)
+
+game (
+	name "Aa! Megami-sama (Japan) (Disc 1)"
+	description "Aa! Megami-sama (Japan) (Disc 1)"
+	rom ( name "Aa! Megami-sama (Japan) (Disc 1) (Track 1).bin" size 24176208 crc 39721234 md5 38bf81014812b9bb1fe6d674e5c07da8 sha1 e93e2451644aa19254c1bcb7bcea942e6a26e175 )
+)
+
+game (
+	name "Aa! Megami-sama (Japan) (Disc 2)"
+	description "Aa! Megami-sama (Japan) (Disc 2)"
+	rom ( name "Aa! Megami-sama (Japan) (Disc 2) (Track 1).bin" size 23374176 crc cd00e149 md5 f71af34cf9b48b4277686166dc707e2f sha1 d11b81523c678b93506623ce2e92da887f968d03 )
+)
+
+game (
+	name "Albaria no Otome (Japan)"
+	description "Albaria no Otome (Japan)"
+	rom ( name "Albaria no Otome (Japan) (Track 01).bin" size 5070912 crc bd7a8ed8 md5 05adf983df07ac0f72f44373b6195452 sha1 d2ccbdc2ba5acfdfe423d9191e369f683d021dec )
+)
+
+game (
+	name "Amateur Teikyou CD-ROM (Japan) (NEC PC-FXGA)"
+	description "Amateur Teikyou CD-ROM (Japan) (NEC PC-FXGA)"
+	rom ( name "Amateur Teikyou CD-ROM (Japan) (NEC PC-FXGA).bin" size 563764992 crc bf8e82f3 md5 da53e5a17fc963bf40beec2e5112d208 sha1 4857e4ec665f4af2fe56da9e2441223b1804208f )
+)
+
+game (
+	name "AnimeFreak FX Vol. 1 (Japan)"
+	description "AnimeFreak FX Vol. 1 (Japan)"
+	rom ( name "AnimeFreak FX Vol. 1 (Japan) (Track 1).bin" size 11560080 crc 15bd4922 md5 b5c017997a673eb275f67292a5179a99 sha1 d29f00d6f9d5120a8d8428b8d3b36b2b19a85146 )
+)
+
+game (
+	name "AnimeFreak FX Vol. 2 (Japan)"
+	description "AnimeFreak FX Vol. 2 (Japan)"
+	rom ( name "AnimeFreak FX Vol. 2 (Japan) (Track 1).bin" size 3052896 crc 82d16447 md5 6e72e83bbede92bc315798ac6bb5fd93 sha1 d339ff58508089c8a282cf345cfd116943780d0e )
+)
+
+game (
+	name "AnimeFreak FX Vol. 3 (Japan)"
+	description "AnimeFreak FX Vol. 3 (Japan)"
+	rom ( name "AnimeFreak FX Vol. 3 (Japan) (Track 1).bin" size 4090128 crc 20a2f030 md5 167e5dae7f55c4177130e1d9718c046f sha1 748fddc0b58326586fba9df575aebcbf1f91d323 )
+)
+
+game (
+	name "AnimeFreak FX Vol. 4 (Japan)"
+	description "AnimeFreak FX Vol. 4 (Japan)"
+	rom ( name "AnimeFreak FX Vol. 4 (Japan) (Track 1).bin" size 7199472 crc ef238e0e md5 de898d745479465d30154522407be2f9 sha1 4ebdaa034050fb03759e6e677a6669afa92a4705 )
+)
+
+game (
+	name "AnimeFreak FX Vol. 5 (Japan) (Disc 1)"
+	description "AnimeFreak FX Vol. 5 (Japan) (Disc 1)"
+	rom ( name "AnimeFreak FX Vol. 5 (Japan) (Disc 1) (Track 1).bin" size 6392736 crc 165c649a md5 c6f4394eecf740b713cca88e9ae9198f sha1 48a8640212ddc07a241cba40c0a3f6c4f9f86b16 )
+)
+
+game (
+	name "AnimeFreak FX Vol. 5 (Japan) (Disc 2)"
+	description "AnimeFreak FX Vol. 5 (Japan) (Disc 2)"
+	rom ( name "AnimeFreak FX Vol. 5 (Japan) (Disc 2) (Track 1).bin" size 11861136 crc 66e0c351 md5 1d1808827439bc9b06c34258feb1b186 sha1 f148d58df9a2f755c286c1584c419be42be427e4 )
+)
+
+game (
+	name "AnimeFreak FX Vol. 6 (Japan) (Disc 1)"
+	description "AnimeFreak FX Vol. 6 (Japan) (Disc 1)"
+	rom ( name "AnimeFreak FX Vol. 6 (Japan) (Disc 1) (Track 1).bin" size 10600464 crc e751ff84 md5 7d3872c52ccc221e3af1f4a50c32912a sha1 7bb7677b676ea81e26c434fa752a14c96c502da9 )
+)
+
+game (
+	name "AnimeFreak FX Vol. 6 (Japan) (Disc 2)"
+	description "AnimeFreak FX Vol. 6 (Japan) (Disc 2)"
+	rom ( name "AnimeFreak FX Vol. 6 (Japan) (Disc 2) (Track 1).bin" size 40414416 crc 17900dfd md5 90861e72e8531bd9da097b01bef6304b sha1 109145aec8fed3bb1410c82511d6e621ff565ad3 )
+)
+
+game (
+	name "Blue Breaker - Ken Yori mo Hohoemi o (Japan)"
+	description "Blue Breaker - Ken Yori mo Hohoemi o (Japan)"
+	rom ( name "Blue Breaker - Ken Yori mo Hohoemi o (Japan) (Track 1).bin" size 13121808 crc 765e237a md5 6691f5b8a7e03ad971cedc5b3f383e6c sha1 e29d875f28eae7d30faeacbe86f1c426c51f0a0d )
+)
+
+game (
+	name "Can Can Bunny Extra DX (Japan)"
+	description "Can Can Bunny Extra DX (Japan)"
+	rom ( name "Can Can Bunny Extra DX (Japan) (Track 1).bin" size 6552672 crc 032abddc md5 85bd4b8994fc0114b18724d3e8b43970 sha1 966d4511ae5d160be51098c67762d6eec8178d40 )
+)
+
+game (
+	name "Doukyuusei 2 (Japan)"
+	description "Doukyuusei 2 (Japan)"
+	rom ( name "Doukyuusei 2 (Japan) (Track 1).bin" size 9984240 crc fa6859da md5 c6c2a7ff15f787c4cf008ae457e10f49 sha1 f9cefe79e72dc154952d60e80d16a84817e4b089 )
+)
+
+game (
+	name "Dragon Knight 4 (Japan)"
+	description "Dragon Knight 4 (Japan)"
+	rom ( name "Dragon Knight 4 (Japan) (Track 1).bin" size 9984240 crc 63d02360 md5 d4126cc40a2a04de03ec7882f8e5002a sha1 9522a63973ae00dc273c9ee1b52b8ff5c95f59cf )
+)
+
+game (
+	name "Fire Woman Matoigumi (Japan)"
+	description "Fire Woman Matoigumi (Japan)"
+	rom ( name "Fire Woman Matoigumi (Japan) (Track 1).bin" size 11687088 crc 4d24ecd2 md5 22c3df6c39ee7f7b559159587bf358e0 sha1 d843849a3879560e0f53a4c126b6a43c368ddc82 )
+)
+
+game (
+	name "First Kiss Story (Japan)"
+	description "First Kiss Story (Japan)"
+	rom ( name "First Kiss Story (Japan) (Track 1).bin" size 2660112 crc b6c9a477 md5 b8f32545e3cfc0e16178588a3231bea8 sha1 21136318a2410973a30b497e996fc340c878c492 )
+)
+
+game (
+	name "Ginga Ojousama Densetsu Yuna FX - Kanashimi no Selene (Japan) (Sample)"
+	description "Ginga Ojousama Densetsu Yuna FX - Kanashimi no Selene (Japan) (Sample)"
+	rom ( name "Ginga Ojousama Densetsu Yuna FX - Kanashimi no Selene (Japan) (Sample) (Track 1).bin" size 9984240 crc 2c16074d md5 956693b304fa66f556c043b955a4eeb7 sha1 7fdda49be9a35174b819065e190a14b07a47196d )
+)
+
+game (
+	name "Kokuu Hyouryuu - Nirgends (Japan)"
+	description "Kokuu Hyouryuu - Nirgends (Japan)"
+	rom ( name "Kokuu Hyouryuu - Nirgends (Japan) (Track 1).bin" size 10035984 crc 0208609f md5 8556909e5bb4828169ffcf44bc7ac5b9 sha1 e430b7a467c2b2ea4cd4664f01e82a84cffe5d9e )
+)
+
+game (
+	name "Konpeki no Kantai (Japan)"
+	description "Konpeki no Kantai (Japan)"
+	rom ( name "Konpeki no Kantai (Japan) (Track 01).bin" size 4842768 crc 9a6c0e7f md5 2dbeb607e17f1a286c6cbb335dbcfc24 sha1 e80e7990a396a2698f0f9f2be5a528953b778c91 )
+)
+
+game (
+	name "Langrisser FX, Der (Japan)"
+	description "Langrisser FX, Der (Japan)"
+	rom ( name "Langrisser FX, Der (Japan) (Track 1).bin" size 4106592 crc 5c972620 md5 255f657ed9e73b2e9ae7801461501fca sha1 cd288828a7bfc224f20966e5b35ad390693c8d2b )
+)
+
+game (
+	name "Mahjong Gokuu Tenjiku (Japan) (SABS)"
+	description "Mahjong Gokuu Tenjiku (Japan) (SABS)"
+	rom ( name "Mahjong Gokuu Tenjiku (Japan) (SABS) (Track 01).bin" size 9807840 crc 6640e860 md5 8d4c4cb6eb29c9994eec7fbd051b3ed1 sha1 9eb1a72a012acf4fd635b4da0c8847e48f32c3f7 )
+)
+
+game (
+	name "Megami Paradise II (Japan)"
+	description "Megami Paradise II (Japan)"
+	rom ( name "Megami Paradise II (Japan) (Track 1).bin" size 7422912 crc 97d662ff md5 2d355a1f31706114f827d80141aeac44 sha1 43eb3031ba46007cfbd859690d56bae5ebadbded )
+)
+
+game (
+	name "Pia Carrot e Youkoso!! We've Been Waiting for You (Japan)"
+	description "Pia Carrot e Youkoso!! We've Been Waiting for You (Japan)"
+	rom ( name "Pia Carrot e Youkoso!! We've Been Waiting for You (Japan) (Track 1).bin" size 15753696 crc df1bc605 md5 a07bd9cb8d5b9ed0795614b31617d952 sha1 9239a71c3d137b9f8c66aed6b48c3588b0c222ee )
+)
+
+game (
+	name "Power Dolls FX (Japan)"
+	description "Power Dolls FX (Japan)"
+	rom ( name "Power Dolls FX (Japan) (Track 01).bin" size 9807840 crc f6e8e806 md5 269366677591eef57067cab7adff44e4 sha1 03732c9a21c25a3cbdc1b9240dad793b8a942a9b )
+)
+
+game (
+	name "Return to Zork (Japan)"
+	description "Return to Zork (Japan)"
+	rom ( name "Return to Zork (Japan) (Track 1).bin" size 9807840 crc 5fcf5c53 md5 a4746f176721b28e5f4c18e3da0f2256 sha1 118e9822db3018b266460745828b7838242f3f7f )
+)
+
+game (
+	name "Same Game FX (Japan) (NEC PC-FXGA)"
+	description "Same Game FX (Japan) (NEC PC-FXGA)"
+	rom ( name "Same Game FX (Japan) (NEC PC-FXGA) (Track 1).bin" size 7161840 crc cd682ee3 md5 96f09ede17fb75bc2ab67e1fc3769a43 sha1 2a57d05c41a0f085eb3f6849faf12537d5f1a322 )
+)
+
+game (
+	name "Sotsugyou II FX - Neo Generation (Japan) (SABS, SACS)"
+	description "Sotsugyou II FX - Neo Generation (Japan) (SABS, SACS)"
+	rom ( name "Sotsugyou II FX - Neo Generation (Japan) (SABS, SACS) (Track 1).bin" size 31354512 crc 378a716b md5 7d6e2817cc33ea1e4eafdeaabd4b46a1 sha1 e54d98d6be373d5010e61b86b767028e17e40164 )
+)
+
+game (
+	name "Sparkling Feather (Japan)"
+	description "Sparkling Feather (Japan)"
+	rom ( name "Sparkling Feather (Japan) (Track 01).bin" size 3377472 crc 82af686d md5 a7f755f96b98e409dc6aeb4ccc94d3f5 sha1 7a119ff1c5d1376a440c5add4b1d71d5ba910945 )
+)
+
+game (
+	name "Super Power League FX (Japan)"
+	description "Super Power League FX (Japan)"
+	rom ( name "Super Power League FX (Japan) (Track 1).bin" size 8090880 crc e3039182 md5 9de82dcacf4c08157ad5de46d36ca649 sha1 0c4046cfffd4f5d27bc03a9bb37bde5c46738965 )
+)
+
+game (
+	name "Team Innocent - The Point of No Return - G.C.P.O.SS (Japan) (SABS)"
+	description "Team Innocent - The Point of No Return - G.C.P.O.SS (Japan) (SABS)"
+	rom ( name "Team Innocent - The Point of No Return - G.C.P.O.SS (Japan) (SABS) (Track 01).bin" size 9984240 crc ffbd46cf md5 fd4de25e8dc4adfdca7d23487eb18616 sha1 6f2693dbcf9cbec5ee4799539a73e69ecb633974 )
+)
+
+game (
+	name "Wakusei Koukitai - Little Cats (Japan)"
+	description "Wakusei Koukitai - Little Cats (Japan)"
+	rom ( name "Wakusei Koukitai - Little Cats (Japan) (Track 01).bin" size 11614176 crc 835906af md5 ca46700145063f0517b62d565fac3315 sha1 faf97c57c78d85d643dc01453b32830984ecf64b )
+)
+
+game (
+	name "Zoku Hatsukoi Monogatari - Shuugaku Ryokou (Japan) (Disc II)"
+	description "Zoku Hatsukoi Monogatari - Shuugaku Ryokou (Japan) (Disc II)"
+	rom ( name "Zoku Hatsukoi Monogatari - Shuugaku Ryokou (Japan) (Disc II) (Track 1).bin" size 9807840 crc fe689557 md5 f3c602776cef3435cae753c9006b8507 sha1 f65d769a8f0ba60a5003aa985da6adc7c3c73eeb )
+)
